@@ -6,8 +6,6 @@ This repository contains sample molecular dynamics simulation scripts, analysis 
 
 ---
 
-## What’s in this repository?
-
 ### `analysis_scripts/`
 
 This folder includes high-level Python scripts to analyze features extracted from MD simulations.
