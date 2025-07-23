@@ -2,7 +2,7 @@
 
 ![Representative Figure](figures/fig1.png)
 
-This repository supports the analysis of how different solvents impact electron transport in short peptides (4-mer and 5-mer). It contains scripts for simulation and analysis, as well as precomputed features extracted from molecular dynamics (MD) simulations. The goal is to understand solvent effects on hydrogen bonding, secondary structure, and conduction-relevant features.
+This repository contains sample molecular dynamics simulation scripts, analysis scripts to analyze the trajectory data and the featurized trajectories (.pkl files) from the paper (INSERT WHEN SUBMITTED)
 
 ---
 
