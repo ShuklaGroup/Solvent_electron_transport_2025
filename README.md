@@ -6,7 +6,7 @@ This repository contains sample molecular dynamics simulation scripts, analysis 
 
 ---
 
-## 🔍 What’s in this repository?
+## What’s in this repository?
 
 ### ✅ `analysis_scripts/`
 
@@ -17,7 +17,7 @@ This folder includes high-level Python scripts to analyze features extracted fro
 
 ---
 
-### 📦 `feature_pkls/`
+### `feature_pkls/`
 
 This folder contains preprocessed features saved as `.pkl` files (Python pickles),further analysis. The features are divided by peptide length (4-mer vs 5-mer) and solvent conditions.
 
@@ -35,7 +35,7 @@ This folder contains preprocessed features saved as `.pkl` files (Python pickles
 
 ---
 
-### 🧪 `simulation_scripts/`
+### `simulation_scripts/`
 
 This folder contains scripts for setting up and running MD simulations of peptides in various solvents.
 
@@ -48,7 +48,7 @@ This folder contains scripts for setting up and running MD simulations of peptid
 
 
 
-## 🧬 Citation
+## Citation
 
 If you use this repository or its contents in your work, please cite the associated publication (to be added once published).
 
