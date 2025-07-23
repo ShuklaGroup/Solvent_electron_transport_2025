@@ -44,6 +44,9 @@ This folder contains scripts for setting up and running MD simulations of peptid
 
 ---
 
+### `MD trajectory data/`
+
+The trajectory data for all the simulations (.dcd), parameter files (.parm7) and coordinate files (.rst7) are available at [this](https://uofi.box.com/s/hrvcng2v0fg2k6uitfpih5pm1us39mlp) Box link.
 
 
 ## Citation
