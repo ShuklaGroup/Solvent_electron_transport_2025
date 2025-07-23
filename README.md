@@ -40,8 +40,8 @@ This folder contains preprocessed features saved as `.pkl` files (Python pickles
 This folder contains scripts for setting up and running MD simulations of peptides in various solvents.
 
 - `minimization_NVT.py`: Minimizes the system energy under NVT ensemble.
-- `equilibration.py`: Equilibrates the system before production.
 - `NPT.py`: Runs simulations under constant pressure and temperature.
+- `equilibration.py`: Equilibrates the system before production.
 - `production.py`: Carries out the final production run for analysis.
 
 ---
