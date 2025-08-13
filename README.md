@@ -1,4 +1,4 @@
-# Solvent Electron Transport in Peptides (2025)
+# Solvent influences electron transport in Peptides (2025)
 
 ![Representative Figure](figures/fig1.jpg)
 
