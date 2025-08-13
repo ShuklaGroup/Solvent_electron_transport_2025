@@ -1,6 +1,6 @@
 # Solvent Electron Transport in Peptides (2025)
 
-![Representative Figure](figures/fig1.png)
+![Representative Figure](figures/fig1.jpg)
 
 This repository contains sample molecular dynamics simulation scripts, analysis scripts to analyze the trajectory data and the featurized trajectories (.pkl files) from the paper (INSERT WHEN SUBMITTED)
 
